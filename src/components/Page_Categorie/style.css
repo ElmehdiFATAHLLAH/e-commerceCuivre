@@ -1,0 +1,4 @@
+#body:hover #voir_prod{
+    opacity: 1;
+    transition: 1200ms;
+}

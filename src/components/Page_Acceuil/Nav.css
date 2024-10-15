@@ -1,0 +1,10 @@
+#logo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.rounded-circle{
+    border-radius: 50%;
+}
+#body:hover #voir_prod{
+    opacity: 1;
+    transition: 1200ms;
+}
